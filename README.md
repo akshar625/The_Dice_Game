@@ -25,7 +25,9 @@ Welcome to The Dice Game project! This is a simple JavaScript, HTML, and CSS pro
 
 ## Preview
 
-![The Dice Game Preview](preview1.png)
+![The Dice Game Preview 1](preview1.png)
+![The Dice Game Preview 2](preview2.png)
+![The Dice Game Preview 3](preview3.png)
 
 ## Deployed Version
 
