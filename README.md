@@ -26,9 +26,9 @@ Welcome to The Dice Game project! This is a simple JavaScript, HTML, and CSS pro
 ## Preview
 
 <div style="display:flex; justify-content: space-between;">
-  <img src="preview1.png" alt="The Dice Game Preview 1" width="350"/>
-  <img src="preview2.png" alt="The Dice Game Preview 2" width="350"/>
-  <img src="preview3.png" alt="The Dice Game Preview 3" width="350"/>
+  <img src="preview1.png" alt="The Dice Game Preview 1" width="300"/>
+  <img src="preview2.png" alt="The Dice Game Preview 2" width="300"/>
+  <img src="preview3.png" alt="The Dice Game Preview 3" width="300"/>
 </div>
 
 ## Deployed Version
