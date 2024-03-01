@@ -27,6 +27,10 @@ Welcome to The Dice Game project! This is a simple JavaScript, HTML, and CSS pro
 
 ![The Dice Game Preview](preview.png)
 
+## Deployed Version
+
+You can play the game online [here](https://akshar625.github.io/The_Dice_Game/).
+
 ## Acknowledgments
 
 This project was created as a simple demonstration of JavaScript, HTML, and CSS. It's a fun way to understand basic concepts like random number generation and conditional statements. Feel free to modify and improve upon it as you see fit!
