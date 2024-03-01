@@ -13,7 +13,7 @@ if(randomNumber1>randomNumber2){
     document.querySelector("h1").textContent="Player1 wins!🚩";
 }
 else if(randomNumber1<randomNumber2){
-    document.querySelector("h1").textContent="Playver2 wins!🚩";
+    document.querySelector("h1").textContent="Player2 wins!🚩";
 }
 else {document.querySelector(("h1")).textContent="Draw!!"
 }
